@@ -1,0 +1,16 @@
+theme: jekyll-theme-minimal
+title: Denser AI Blog
+description: GitHub mirror of selected blog posts from denser.ai
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+markdown: kramdown
+highlighter: rouge
+
+include:
+  - README.md

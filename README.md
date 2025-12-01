@@ -4,17 +4,17 @@ Welcome to the Denser AI Blog repository! This repository contains GitHub Pages 
 
 ## Blog Posts
 
-### [AI Knowledge Bases Compared](/ai-knowledge-bases-compared/)
+### [AI Knowledge Bases Compared](ai-knowledge-bases-compared/)
 A comprehensive comparison of Google NotebookLM and Denser AI Chat, examining their unique strengths for research, team collaboration, and knowledge management applications.
 
 **Canonical URL**: https://denser.ai/blog/ai-knowledge-bases-compared-notebooklm-denser/
 
-### [AI Agents Guide](/ai-agents/)
+### [AI Agents Guide](ai-agents/)
 The complete guide to understanding AI agents, their architecture, applications, and how they're transforming industries in 2025.
 
 **Canonical URL**: https://denser.ai/blog/ai-agents-the-complete-guide-to-autonomous-ai-systems/
 
-### [Database Tools](/database-tools/)
+### [Database Tools](database-tools/)
 Complete integration guide for connecting AI chatbots with live database systems including MySQL, PostgreSQL, Oracle, and SQL Server.
 
 **Canonical URL**: https://denser.ai/blog/database-tools/
