@@ -1,3 +1,9 @@
+---
+layout: default
+title: "AI Agents: The Complete Guide to Autonomous AI Systems"
+description: "Understanding AI Agents, Their Architecture, Applications, and How They're Transforming Industries in 2025"
+---
+
 <link rel="canonical" href="https://denser.ai/blog/ai-agents-the-complete-guide-to-autonomous-ai-systems/" />
 
 # AI Agents: The Complete Guide to Autonomous AI Systems

@@ -102,3 +102,12 @@ ENV/
 
 .DS_Store
 .claude
+
+# Jekyll
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler - DO NOT commit Gemfile.lock for Jekyll/GitHub Pages
+Gemfile.lock

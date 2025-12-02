@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: Denser AI Blog
 description: GitHub mirror of selected blog posts from denser.ai
 
@@ -12,5 +12,7 @@ relative_links:
 markdown: kramdown
 highlighter: rouge
 
-include:
-  - README.md
+# Suppress Sass deprecation warnings
+sass:
+  quiet_deps: true
+

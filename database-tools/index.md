@@ -1,3 +1,9 @@
+---
+layout: default
+title: "How to Chat With Your Database: AI Chatbot to MySQL, PostgreSQL, Oracle & SQL Server Integration Guide"
+description: "Learn how to connect your AI chatbot to live business data from MySQL, PostgreSQL, Oracle, or SQL Server databases. Complete setup guide with real-time query examples and security best practices for 2024."
+---
+
 <link rel="canonical" href="https://denser.ai/blog/database-tools/" />
 
 # How to Chat With Your Database: AI Chatbot to MySQL, PostgreSQL, Oracle & SQL Server Integration Guide

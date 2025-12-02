@@ -1,3 +1,9 @@
+---
+layout: default
+title: "NotebookLM vs Denser AI Chat: Which AI Knowledge Assistant Is Right for You?"
+description: "A comprehensive comparison of Google NotebookLM and Denser AI Chat, examining their unique strengths for research, team collaboration, and knowledge management applications."
+---
+
 <link rel="canonical" href="https://denser.ai/blog/ai-knowledge-bases-compared-notebooklm-denser/" />
 
 # NotebookLM vs Denser AI Chat: Which AI Knowledge Assistant Is Right for You?

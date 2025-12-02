@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Denser AI Blog"
+description: "GitHub mirror of selected blog posts from denser.ai"
+---
+
 # Denser AI Blog
 
 Welcome to the Denser AI Blog repository! This repository contains GitHub Pages versions of our blog posts from [denser.ai](https://denser.ai).
@@ -7,17 +13,17 @@ Welcome to the Denser AI Blog repository! This repository contains GitHub Pages 
 ### [AI Knowledge Bases Compared](ai-knowledge-bases-compared/)
 A comprehensive comparison of Google NotebookLM and Denser AI Chat, examining their unique strengths for research, team collaboration, and knowledge management applications.
 
-**Canonical URL**: https://denser.ai/blog/ai-knowledge-bases-compared-notebooklm-denser/
+**Canonical URL**: [https://denser.ai/blog/ai-knowledge-bases-compared-notebooklm-denser/](https://denser.ai/blog/ai-knowledge-bases-compared-notebooklm-denser/)
 
 ### [AI Agents Guide](ai-agents/)
 The complete guide to understanding AI agents, their architecture, applications, and how they're transforming industries in 2025.
 
-**Canonical URL**: https://denser.ai/blog/ai-agents-the-complete-guide-to-autonomous-ai-systems/
+**Canonical URL**: [https://denser.ai/blog/ai-agents-the-complete-guide-to-autonomous-ai-systems/](https://denser.ai/blog/ai-agents-the-complete-guide-to-autonomous-ai-systems/)
 
 ### [Database Tools](database-tools/)
 Complete integration guide for connecting AI chatbots with live database systems including MySQL, PostgreSQL, Oracle, and SQL Server.
 
-**Canonical URL**: https://denser.ai/blog/database-tools/
+**Canonical URL**: [https://denser.ai/blog/database-tools/](https://denser.ai/blog/database-tools/)
 
 ## About This Repository
 
@@ -32,24 +38,6 @@ This repository serves as a GitHub mirror of selected blog posts from denser.ai.
 ### Content Policy
 
 All GitHub versions include canonical links that declare the denser.ai version as the authoritative source. This ensures proper SEO attribution while making the content accessible on GitHub.
-
-## Repository Structure
-
-```
-denser-ai-blog/
-├── README.md
-├── _config.yml
-├── Gemfile
-├── ai-agents/
-│   ├── index.md
-│   └── images/
-├── ai-knowledge-bases-compared/
-│   ├── index.md
-│   └── images/
-└── database-tools/
-    ├── index.md
-    └── images/
-```
 
 ## Local Development
 
