@@ -5,8 +5,7 @@ description: "GitHub mirror of selected blog posts from denser.ai"
 ---
 
 <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 30px;">
-  <h1 style="margin: 0; flex-grow: 1;">Denser AI Blog</h1>
-  <img src="assets/images/logo.png" alt="Denser AI Logo" style="max-width: 150px; height: auto; margin-left: 20px;">
+  <img src="assets/images/logo.png" alt="Denser AI Logo" style="max-width: 80px; height: auto; margin-left: 20px;">
 </div>
 
 Welcome to the Denser AI Blog repository! This repository contains GitHub Pages versions of our blog posts from [denser.ai](https://denser.ai).
