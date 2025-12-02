@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Denser AI Blog
 description: GitHub mirror of selected blog posts from denser.ai
+logo: /assets/images/logo.png
 
 plugins:
   - jekyll-relative-links
@@ -15,4 +16,3 @@ highlighter: rouge
 # Suppress Sass deprecation warnings
 sass:
   quiet_deps: true
-
