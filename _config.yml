@@ -13,6 +13,9 @@ relative_links:
 markdown: kramdown
 highlighter: rouge
 
+include:
+  - google66e5232e674f7355.html
+
 # Suppress Sass deprecation warnings
 sass:
   quiet_deps: true
